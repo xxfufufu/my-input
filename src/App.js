@@ -58,7 +58,7 @@ function App() {
                                 <code>{`<Input endIcon />`}</code>
                         </Grid>
                         <Grid item>
-                                <Input endIcon error/>
+                                <Input endIcon />
                         </Grid>
                 </Grid>
 		 <Grid item container direction='column' spacing='1'>
